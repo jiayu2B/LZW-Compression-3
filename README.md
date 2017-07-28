@@ -9,8 +9,8 @@ To Use:
   - To decompress: python lzw.py -d 'your compressed string' : will return the original string
 
   From Code:
-  -compress(string) will take a string return a list of integers that hold the compressed value of your input string. The effect of the compression is greater with larger strings.
-  -decompress(list) will take a compressed list and return the original string.
+  - compress(string) will take a string return a list of integers that hold the compressed value of your input string. The effect of the compression is greater with larger strings.
+  - decompress(list) will take a compressed list and return the original string.
 
 In the works:
 - Adding ability to compress to files
